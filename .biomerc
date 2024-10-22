@@ -1,0 +1,17 @@
+{
+  "project": {
+    "name": "my-project"
+  },
+  "lint": {
+    "rules": {
+      "no-unused-vars": "warn",
+      "semi": ["error", "always"],
+      "quotes": ["error", "single"]
+    }
+  },
+  "format": {
+    "printWidth": 80,
+    "tabWidth": 2,
+    "singleQuote": true
+  }
+}
